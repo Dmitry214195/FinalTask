@@ -28,7 +28,7 @@ for (int j = 0; j < size; j++)
     }
 }
 
-Console.WriteLine();
+Console.WriteLine("Cоответствующие элементы: ");
 PrintArray(arrayFinal);
 
 void PrintArray(string[] array)
