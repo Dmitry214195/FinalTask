@@ -27,3 +27,6 @@ for (int j = 0; j < size; j++)
         pos++;
     }
 }
+
+Console.WriteLine();
+PrintArray(arrayFinal);
